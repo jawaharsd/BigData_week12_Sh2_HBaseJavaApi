@@ -1,4 +1,4 @@
-package DataManipulationLanguageOperations;
+package DML;
 
 import java.io.IOException;
 
